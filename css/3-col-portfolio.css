@@ -6,6 +6,7 @@
 
 body {
   padding-top: 54px;
+  background-color: #b3ffff;
 }
 
 @media (min-width: 992px) {
@@ -21,3 +22,8 @@ body {
 .pagination {
   margin-bottom: 30px;
 }
+
+.my-4 {
+    color: #000;
+}
+
